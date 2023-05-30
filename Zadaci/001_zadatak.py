@@ -1,0 +1,1 @@
+#Napisati kod koji proverata da li je uneto ime "Kata Vukasinovic" tacno.
